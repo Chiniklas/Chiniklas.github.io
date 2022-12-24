@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lecture Project: Tour into the picture"
-date: 2019-07-01
+date: 2022-08-01
 category: projects
 image: /images/display_images/testbench_tmotor.jpg
 authors: "<strong>Chi Zhang</strong>"

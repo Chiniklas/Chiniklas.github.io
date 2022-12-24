@@ -3,7 +3,7 @@ layout: default
 title: "Lecture Project: Tour into the picture"
 date: 2022-08-01
 category: projects
-image: /images/display_images/testbench_tmotor.jpg
+image: /images/display_images/Tour into the picture.gif
 authors: "<strong>Chi Zhang</strong>"
 advisor: "Martin Kleinsteuber"
 venue: "Grade 1.3"

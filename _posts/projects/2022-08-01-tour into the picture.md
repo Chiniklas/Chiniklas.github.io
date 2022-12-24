@@ -5,7 +5,7 @@ date: 2022-08-01
 category: projects
 image: /images/display_images/Tour into the picture.gif
 authors: "<strong>Chi Zhang</strong>, Xuedong Zhang, Wenxin Tang, Zhengxuan Yuan, Siyao Wang"
-advisor: "Martin Kleinsteuber"
+advisor: "Dr. rer. nat. Martin Kleinsteuber"
 venue: "Grade 1.3, Lecture Project"
 # slides: research/pdf/ddp_presentation.pdf
 # report: /research/pdf/DDP_report.pdf

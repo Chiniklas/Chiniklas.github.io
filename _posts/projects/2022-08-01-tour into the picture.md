@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Lecture Project: Tour into the picture"
+title: "Tour into the picture"
 date: 2022-08-01
 category: projects
 image: /images/display_images/Tour into the picture.gif
 authors: "<strong>Chi Zhang</strong>"
 advisor: "Martin Kleinsteuber"
-venue: "Grade 1.3"
+venue: "Grade 1.3, Lecture Project"
 # slides: research/pdf/ddp_presentation.pdf
 # report: /research/pdf/DDP_report.pdf
 code: https://github.com/Chiniklas/Computer-Vision-challenge.git

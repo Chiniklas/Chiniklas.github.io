@@ -8,6 +8,7 @@ authors: "<strong>Chi Zhang</strong>"
 advisor: "Felix Wiebe, Akhil Sathuluri, Prof. Dr. Shivesh Kumar, Prof. Dr. Frank Kirchner, Prof. Dr. Markus Zimmermann"
 venue: "Master Thesis, Robotics Innovation Center, DFKI GmbH"
 preprint: pre_print/solving_the_swing-up_and_balance_task_for_the_acrobot_and_pendubot_with_SAC.pdf
+poster: poster/double-pendulum.pdf
 code: https://github.com/Chiniklas/double_pendulum
 ---
 In this project, reinforcement learning-based control was attempted on an underactuated double pendulum system to perform the tasks of swinging up and stabilization. Depending on the joint being controlled, the systems are referred to as the 'pendubot' and the 'acrobot.' A combined controller consisting of an RL agent trained with the Soft Actor-Critic (SAC) algorithm for the swing-up task and a Linear Quadratic Regulator (LQR) for stabilization is employed. A 3-stage reward function was designed to guide the agent into the Region of Attraction (RoA) of the LQR controller, where the system achieves asymptotic stability toward the goal state and maintains stability over an extended duration.<br><br>

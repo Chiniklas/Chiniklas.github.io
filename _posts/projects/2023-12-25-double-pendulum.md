@@ -3,7 +3,7 @@ layout: default
 title: "Reinforcement learning based control of an underactuated double pendulum system"
 date: 2023-12-25
 category: projects
-image: /images/display_images/double-pendulum.jpg
+image: /images/display_images/double-pendulum.gif
 authors: "<strong>Chi Zhang</strong>"
 advisor: "Felix Wiebe, Akhil Sathuluri, Prof. Dr. Shivesh Kumar, Prof. Dr. Frank Kirchner, Prof. Dr. Markus Zimmermann"
 venue: "Master Thesis, Robotics Innovation Center, DFKI GmbH"
